@@ -29,6 +29,6 @@ function tela_fase_3(){
   botao(windowWidth-(width * 0.3), windowHeight-(height * 0.1), 120, 30, "MENU", "#FE9A2E", "tela_inicial");
   
   ///// BOTÕES DAS ALTERNATIVAS /////
-  botao((windowWidth/2)-(width/4), windowHeight/2*0.75, 250, 30, "Rezuz o lixo", "#FE9A2E", "tela_fase_4");
+  botao((windowWidth/2)-(width/4), windowHeight/2*0.75, 250, 30, "Reduz o lixo", "#FE9A2E", "tela_fase_4");
   botao((windowWidth/2)-(width/4), windowHeight/2*1.25, 250, 30, "Gera eletricidade", "#FE9A2E", "tela_que_pena");
 }
