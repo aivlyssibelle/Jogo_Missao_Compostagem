@@ -14,7 +14,7 @@ function tela_fase_6(){
       textStyle(BOLD);
       textSize((min(width, height) * 0.04));
       textAlign(CENTER, CENTER);
-      text("O que contece com cascas \n de frutas no lixo comum??", windowWidth/2, windowHeight/8);
+      text("O que acontece com cascas \n de frutas no lixo comum??", windowWidth/2, windowHeight/8);
     pop();
     push();
       textSize((min(width, height) * 0.025));
